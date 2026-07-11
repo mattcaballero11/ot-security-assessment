@@ -56,9 +56,9 @@ IEC 62443-3-2 / -2-1 / -3-3 · NIST SP 800-82r3 · DOE C2M2 v2.1 · MITRE ATT&CK
 
 ## About
 
-Built by **Matthew** — cybersecurity consultant (OT security governance & assessments), PNPT-certified, currently pursuing CPTS and BSCP.
+Built by **Matthew G. Caballero** — cybersecurity consultant (OT security governance & assessments), PNPT-certified, currently pursuing CPTS and BSCP.
 
-[LinkedIn](www.linkedin.com/in/matthewgcaballero) · [GitHub profile](https://github.com/mattcaballero11) · [Credly](https://www.credly.com/users/matthew-caballero.9d29c5b1)
+[LinkedIn](https://www.linkedin.com/in/matthewgcaballero/) · [GitHub profile](https://github.com/mattcaballero11) · [Credly](https://www.credly.com/users/matthew-caballero.9d29c5b1)
 
 ---
 
