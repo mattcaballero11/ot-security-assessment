@@ -1,0 +1,11 @@
+# Internal working files — never publish
+canonical-facts.md
+briefing-*.md
+*-INTERNAL.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
