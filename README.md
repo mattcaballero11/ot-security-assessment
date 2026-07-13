@@ -8,8 +8,9 @@ A paper-based OT security assessment of a **fictional** mid-sized water utility,
 
 ## Why I built this
 
+<!-- Matthew: this is a default paragraph. If you already customized this in your repo, paste your version back here before committing. -->
 
-At my current job, I support OT security engagements (maturity assessments, IEC 62443-aligned governance, control mapping, and third-party risk) that I cannot share publicly. My client OT work was in a different sector and region. To show the capability without touching any client material, I reproduced a complete OT security assessment for a fictional EU water utility, which also maps to the NIS2 and ENS environment I am targeting for remote roles.
+At EY I support OT security engagements (maturity assessments, IEC 62443-aligned governance, control mapping, and third-party risk) that I cannot share publicly. My client OT work was in a different sector and region. To show the capability without touching any client material, I reproduced a complete OT security assessment for a fictional EU water utility, which also maps to the NIS2 and ENS environment I am targeting for remote roles.
 
 ## The fictional client
 
@@ -28,7 +29,7 @@ OT/ICS security architecture review (Purdue model), IEC 62443-3-2 zone-and-condu
 | 1 | [Client brief & scenario](00-client-brief/fictional-company-profile.md) | ✅ |
 | 2 | [Reference architecture (Purdue, current state)](01-architecture/reference-architecture.md) | ✅ |
 | 3 | [Risk assessment: IEC 62443-3-2 zones, conduits, SL-T](02-risk-assessment/) | ✅ |
-| 4 | Maturity assessment, gap analysis & remediation roadmap (C2M2) | 🔜 |
+| 4 | [Maturity assessment, gap analysis & remediation roadmap (C2M2)](03-maturity-assessment/) | ✅ |
 | 5 | Governance pack: OT security policy, asset inventory, ISMS scope | 🔜 |
 | 6 | MITRE ATT&CK for ICS mapping | 🔜 |
 | 7 | Third-party risk: vendor questionnaire & risk memo | 🔜 |
@@ -57,9 +58,22 @@ Five risks come out inherently Critical, and they cluster in one place: the miss
 - [Risk register](02-risk-assessment/risk-register.md): all 14 risks scored, with the top ones written up in detail.
 - [Risk assessment workbook](02-risk-assessment/avsa-risk-assessment.xlsx): the same content as a formatted, filterable spreadsheet.
 
-### 4 to 8 · planned
+### 4 · Maturity assessment and remediation roadmap (C2M2)
 
-See the table above. These build on the risk assessment: the maturity roadmap closes the SL-T gaps, and the governance, ATT&CK for ICS, and third-party risk deliverables follow.
+AVSA is scored across the ten C2M2 domains on the MIL 0 to 3 scale, with risk-informed targets. The current profile averages about 0.4, which is typical of a utility that has treated OT security as plant maintenance.
+
+![AVSA C2M2 maturity radar](03-maturity-assessment/diagrams/maturity-radar.svg)
+
+The three largest gaps (Risk Management, Identity and Access, and Cybersecurity Architecture) line up with the Phase 2 risk findings, which is the point: an independent maturity view and an independent risk view converge on the same priorities. The roadmap turns those priorities into 14 sequenced initiatives across three horizons, each tied to the risks it closes, on the principle of structure before hardening: build the boundary and segment the network before patching individual assets.
+
+- [Maturity scorecard](03-maturity-assessment/maturity-scorecard.md): all 10 domains scored, with the radar and per-domain rationale.
+- [Gap analysis](03-maturity-assessment/gap-analysis.md): what is missing to close each gap.
+- [Remediation roadmap](03-maturity-assessment/remediation-roadmap.md): 14 initiatives, sequenced by effort and impact.
+- [Maturity workbook](03-maturity-assessment/avsa-maturity-assessment.xlsx): scorecard, gap analysis, and roadmap as a spreadsheet.
+
+### 5 to 8 · planned
+
+See the table above. These build on the assessment so far: the governance pack, the MITRE ATT&CK for ICS mapping, the third-party risk assessment of the SCADA integrator, and the NIS2/ENS regulatory mapping.
 
 ## Frameworks & references
 
@@ -70,7 +84,7 @@ IEC 62443-3-2 / -2-1 / -3-3 · NIST SP 800-82r3 · DOE C2M2 v2.1 · MITRE ATT&CK
 Built by **Matthew**, cybersecurity consultant (OT security governance and assessments), PNPT-certified, currently pursuing CPTS and BSCP.
 
 <!-- Matthew: paste your real links here if you have not already. -->
-[LinkedIn](https://www.linkedin.com/in/matthewgcaballero/) · [GitHub profile](https://github.com/mattcaballero11) · [Credly](https://www.credly.com/users/matthew-caballero.9d29c5b1)
+[LinkedIn](#) · [GitHub profile](#) · [Credly](#)
 
 ---
 

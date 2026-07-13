@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 860" font-family="Helvetica, Arial, sans-serif">
+<rect x="0" y="0" width="1000" height="860" fill="#ffffff"/>
+<text x="40" y="46" font-size="21" font-weight="bold" fill="#0f172a">AVSA Cybersecurity Maturity (C2M2 v2.1)</text>
+<text x="40" y="70" font-size="13" fill="#64748b">Current vs risk-informed target across 10 domains, MIL 0 to 3 . fictional scenario for portfolio demonstration</text>
+<circle cx="500" cy="470" r="70.0" fill="none" stroke="#dde3ea" stroke-width="1.5"/>
+<text x="504" y="414.0" font-size="11" fill="#aab4c0">MIL1</text>
+<circle cx="500" cy="470" r="140.0" fill="none" stroke="#dde3ea" stroke-width="1.5"/>
+<text x="504" y="344.0" font-size="11" fill="#aab4c0">MIL2</text>
+<circle cx="500" cy="470" r="210.0" fill="none" stroke="#dde3ea" stroke-width="1.5"/>
+<text x="504" y="274.0" font-size="11" fill="#aab4c0">MIL3</text>
+<circle cx="500" cy="470" r="3" fill="#c2cad4"/>
+<line x1="500" y1="470" x2="500.0" y2="260.0" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="623.4" y2="300.1" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="699.7" y2="405.1" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="699.7" y2="534.9" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="623.4" y2="639.9" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="500.0" y2="680.0" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="376.6" y2="639.9" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="300.3" y2="534.9" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="300.3" y2="405.1" stroke="#e7ebf0" stroke-width="1"/>
+<line x1="500" y1="470" x2="376.6" y2="300.1" stroke="#e7ebf0" stroke-width="1"/>
+<polygon points="500.0,330.0 582.3,356.7 699.7,405.1 699.7,534.9 582.3,583.3 500.0,680.0 417.7,583.3 366.9,513.3 300.3,405.1 417.7,356.7" fill="#1F3A5F" fill-opacity="0.06" stroke="#1F3A5F" stroke-width="2.5" stroke-dasharray="7,4"/>
+<polygon points="500.0,400.0 500.0,470.0 500.0,470.0 500.0,470.0 541.1,526.6 500.0,540.0 500.0,470.0 433.4,491.6 500.0,470.0 500.0,470.0" fill="#dc2626" fill-opacity="0.16" stroke="#dc2626" stroke-width="2.5"/>
+<circle cx="500.0" cy="330.0" r="3.5" fill="#1F3A5F"/>
+<circle cx="500.0" cy="400.0" r="3.5" fill="#dc2626"/>
+<circle cx="582.3" cy="356.7" r="3.5" fill="#1F3A5F"/>
+<circle cx="500.0" cy="470.0" r="3.5" fill="#dc2626"/>
+<circle cx="699.7" cy="405.1" r="3.5" fill="#1F3A5F"/>
+<circle cx="500.0" cy="470.0" r="3.5" fill="#dc2626"/>
+<circle cx="699.7" cy="534.9" r="3.5" fill="#1F3A5F"/>
+<circle cx="500.0" cy="470.0" r="3.5" fill="#dc2626"/>
+<circle cx="582.3" cy="583.3" r="3.5" fill="#1F3A5F"/>
+<circle cx="541.1" cy="526.6" r="3.5" fill="#dc2626"/>
+<circle cx="500.0" cy="680.0" r="3.5" fill="#1F3A5F"/>
+<circle cx="500.0" cy="540.0" r="3.5" fill="#dc2626"/>
+<circle cx="417.7" cy="583.3" r="3.5" fill="#1F3A5F"/>
+<circle cx="500.0" cy="470.0" r="3.5" fill="#dc2626"/>
+<circle cx="366.9" cy="513.3" r="3.5" fill="#1F3A5F"/>
+<circle cx="433.4" cy="491.6" r="3.5" fill="#dc2626"/>
+<circle cx="300.3" cy="405.1" r="3.5" fill="#1F3A5F"/>
+<circle cx="500.0" cy="470.0" r="3.5" fill="#dc2626"/>
+<circle cx="417.7" cy="356.7" r="3.5" fill="#1F3A5F"/>
+<circle cx="500.0" cy="470.0" r="3.5" fill="#dc2626"/>
+<text x="500.0" y="226.0" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="middle">ASSET</text>
+<text x="500.0" y="241.0" font-size="11" fill="#94a3b8" text-anchor="middle">MIL 1 &#8594; 2</text>
+<text x="643.4" y="272.6" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="start">THREAT</text>
+<text x="643.4" y="287.6" font-size="11" fill="#94a3b8" text-anchor="start">MIL 0 &#8594; 2</text>
+<text x="732.1" y="394.6" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="start">RISK</text>
+<text x="732.1" y="409.6" font-size="11" fill="#94a3b8" text-anchor="start">MIL 0 &#8594; 3</text>
+<text x="732.1" y="545.4" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="start">ACCESS</text>
+<text x="732.1" y="560.4" font-size="11" fill="#94a3b8" text-anchor="start">MIL 0 &#8594; 3</text>
+<text x="643.4" y="667.4" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="start">SITUATION</text>
+<text x="643.4" y="682.4" font-size="11" fill="#94a3b8" text-anchor="start">MIL 1 &#8594; 2</text>
+<text x="500.0" y="714.0" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="middle">RESPONSE</text>
+<text x="500.0" y="729.0" font-size="11" fill="#94a3b8" text-anchor="middle">MIL 1 &#8594; 3</text>
+<text x="356.6" y="667.4" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="end">3RD-PARTIES</text>
+<text x="356.6" y="682.4" font-size="11" fill="#94a3b8" text-anchor="end">MIL 0 &#8594; 2</text>
+<text x="267.9" y="545.4" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="end">WORKFORCE</text>
+<text x="267.9" y="560.4" font-size="11" fill="#94a3b8" text-anchor="end">MIL 1 &#8594; 2</text>
+<text x="267.9" y="394.6" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="end">ARCHITECTURE</text>
+<text x="267.9" y="409.6" font-size="11" fill="#94a3b8" text-anchor="end">MIL 0 &#8594; 3</text>
+<text x="356.6" y="272.6" font-size="12.5" font-weight="bold" fill="#334155" text-anchor="end">PROGRAM</text>
+<text x="356.6" y="287.6" font-size="11" fill="#94a3b8" text-anchor="end">MIL 0 &#8594; 2</text>
+<polygon points="60,810 86,810 86,824 60,824" fill="#dc2626" fill-opacity="0.16" stroke="#dc2626" stroke-width="2.5"/>
+<text x="94" y="820" font-size="12.5" fill="#334155">Current maturity</text>
+<polygon points="240,810 266,810 266,824 240,824" fill="#1F3A5F" fill-opacity="0.06" stroke="#1F3A5F" stroke-width="2.5" stroke-dasharray="7,4"/>
+<text x="274" y="820" font-size="12.5" fill="#334155">Target maturity (24-month, risk-informed)</text>
+<text x="40" y="846" font-size="11" fill="#94a3b8">Fictional scenario - Aguas de Valdenor, S.A. . Biggest gaps: Risk Management, Identity &amp; Access, Cybersecurity Architecture . No real client data.</text>
+</svg>
